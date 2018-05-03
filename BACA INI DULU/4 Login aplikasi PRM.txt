@@ -1,0 +1,18 @@
+Login Aplikasi PRM
+
+Login untuk merubah tampilan:
+http://localhost/prmfema/admin
+U:admin
+P:seruterus
+
+Login untuk melihat pemenang:
+http://localhost/prmfema/pemenang
+U:seruterus
+P:seruterus
+
+
+Develop by: Seru Terus
+
+E: hello@seruterus.com
+P: 087823327307
+W: www.seruterus.com
